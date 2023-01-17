@@ -1,0 +1,21 @@
+Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Pts/MP,xG,xGA,xGD,xGD/90,Last 5,Attendance,Top Team Scorer,Goalkeeper
+1,Arsenal,18,15,2,1,42,14,28,47,2.61,34.1,16.6,17.5,0.97,W W W D W,"60,157",Martin Ødegaard - 8,Aaron Ramsdale
+2,Manchester City,18,12,3,3,46,18,28,39,2.17,36.3,14,22.3,1.24,L W D W L,"53,185",Erling Haaland - 21,Ederson
+3,Newcastle Utd,19,10,8,1,33,11,22,38,2,31.6,17.4,14.1,0.74,W W D D W,"52,187",Miguel Almirón - 9,Nick Pope
+4,Manchester Utd,18,12,2,4,29,21,8,38,2.11,27.1,19.9,7.2,0.4,W W W W W,"73,872",Marcus Rashford - 8,David de Gea
+5,Tottenham,19,10,3,6,37,27,10,33,1.74,28.8,22.2,6.6,0.35,W D L W L,"61,686",Harry Kane - 15,Hugo Lloris
+6,Fulham,20,9,4,7,32,29,3,31,1.55,27.5,34.5,-7,-0.35,W W W W L,"23,178",Aleksandar Mitrović - 11,Bernd Leno
+7,Brighton,18,9,3,6,35,25,10,30,1.67,27.4,23,4.3,0.24,L W L W W,"31,474",Leandro Trossard - 7,Robert Sánchez
+8,Brentford,19,7,8,4,32,28,4,29,1.53,27,25.2,1.8,0.1,W D W W W,"17,079",Ivan Toney - 13,David Raya
+9,Liverpool,18,8,4,6,34,25,9,28,1.56,32.1,25.6,6.6,0.37,W W W L L,"53,239","Mohamed Salah, Roberto Firmino - 7",Alisson
+10,Chelsea,19,8,4,7,22,21,1,28,1.47,22.2,25,-2.7,-0.14,W D L L W,"39,947",Kai Havertz - 5,Kepa Arrizabalaga
+11,Aston Villa,19,7,4,8,22,27,-5,25,1.32,23.2,25.9,-2.7,-0.14,W L W D W,"41,584",Danny Ings - 6,Emiliano Martínez
+12,Crystal Palace,18,6,4,8,17,26,-9,22,1.22,17.5,24.3,-6.8,-0.38,L L W L L,"24,794",Wilfried Zaha - 6,Vicente Guaita
+13,Nott'ham Forest,19,5,5,9,15,34,-19,20,1.05,21.2,29,-7.9,-0.41,W L D W W,"29,085","Brennan Johnson, Taiwo Awoniyi - 4",Dean Henderson
+14,Leicester City,19,5,2,12,26,33,-7,17,0.89,21.8,30.4,-8.6,-0.45,W L L L L,"31,601",James Maddison - 7,Danny Ward
+15,Leeds United,18,4,5,9,26,33,-7,17,0.94,25.3,29.3,-4,-0.22,L L D D L,"36,461",Rodrigo - 10,Illan Meslier
+16,Wolves,19,4,5,10,12,27,-15,17,0.89,18.1,26.1,-8,-0.42,L W L D W,"31,612",Daniel Podence - 5,José Sá
+17,Bournemouth,19,4,4,11,18,41,-23,16,0.84,13.8,31.2,-17.4,-0.92,W L L L L,"10,348","Philip Billing, Kieffer Moore - 4",Mark Travers
+18,West Ham,19,4,3,12,15,25,-10,15,0.79,23.4,21.8,1.6,0.09,L L L D L,"62,446","Gianluca Scamacca, Saïd Benrahma - 3",Łukasz Fabiański
+19,Everton,19,3,6,10,15,26,-11,15,0.79,19.9,31.3,-11.4,-0.6,L L D L L,"39,213","Demarai Gray, Anthony Gordon - 3",Jordan Pickford
+20,Southampton,19,4,3,12,17,34,-17,15,0.79,19.1,24.7,-5.6,-0.3,L L L L W,"30,659",James Ward-Prowse - 5,Gavin Bazunu
